@@ -1,4 +1,4 @@
-module github.com/feiin/go-captcha
+module github.com/yangyin/go-captcha
 
 go 1.18
 
