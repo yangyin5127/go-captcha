@@ -27,7 +27,7 @@ golang 实现普通验证码,同时支持中文汉字点击行为验证码
 *普通验证码*
 ```
 import (
-   "github.com/feiin/go-captcha"
+   "github.com/yangyin5127/go-captcha"
 )
 
 cpt := captcha.NewCaptcha(260, 100)
@@ -56,7 +56,7 @@ result,err := cpt.GenRandomNormalCaptcha(4)
 ```
 
 import (
-   "github.com/feiin/go-captcha"
+   "github.com/yangyin5127/go-captcha"
 )
 
 //........................................
